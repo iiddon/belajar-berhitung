@@ -4,9 +4,13 @@ Aplikasi web interaktif untuk belajar berhitung anak SD kelas 1–3, bergaya buk
 
 ## Cara memakai
 
-Buka `index.html` di browser (HP atau komputer). Tidak perlu instalasi. Internet hanya dibutuhkan untuk memuat huruf (Google Fonts). Tanpa internet, aplikasi tetap jalan dengan huruf bawaan.
+Buka `index.html` di browser (HP, iPad/tablet, atau komputer). Tidak perlu instalasi. Tampilan otomatis menyesuaikan layar: di iPad aplikasi diperbesar sampai pas satu layar, baik tegak maupun mendatar. Internet hanya dibutuhkan untuk memuat huruf (Google Fonts). Tanpa internet, aplikasi tetap jalan dengan huruf bawaan.
 
 Progres anak (bintang, stiker, baju Kiko, rekor) tersimpan di browser perangkat yang dipakai. Untuk pindah perangkat, pakai **Profil → Kode cadangan**.
+
+## Pasang di layar utama HP/iPad
+
+Aktifkan GitHub Pages (Settings → Pages → branch `main`, folder `/ (root)`), lalu buka https://iiddon.github.io/belajar-berhitung/ dan pilih **Tambahkan ke Layar Utama**. Aplikasi akan muncul dengan ikon Kiko dan terbuka layar penuh.
 
 ## Fitur
 
